@@ -1,109 +1,146 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="Hossam Ahmed — Dexter · Full-Stack Developer · Co-founder @ 7stacks" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D2137,1A3A5C,2980B9&height=200&section=header&text=Hossam%20Ahmed%20Mahmoud&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Alexandria%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=60&descSize=18&descColor=9DBFDF" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2980B9&center=true&vCenter=true&width=700&lines=Building+production-grade+web+apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Real-time+systems+%7C+Multiplayer+games+%7C+E-commerce;Currently+building+at+Gymawy+%F0%9F%8F%8B%EF%B8%8F)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/Dex11x2?label=Follow&style=social)](https://github.com/Dex11x2)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Dex11x2&color=2980B9&style=flat-square&label=Profile+Views)](https://github.com/Dex11x2)
-
-</div>
+<p align="center">
+  <a href="mailto:7ossam11x2@gmail.com"><img src="https://img.shields.io/badge/Email-7ossam11x2%40gmail.com-f5b942?style=flat-square&logo=gmail&logoColor=0b0f14&labelColor=121821"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20roles%20·%20Freelance%20projects-f5b942?style=flat-square&labelColor=121821"/>
+  <img src="https://img.shields.io/badge/Remote%20·%20Egypt%20·%20GCC-🌍-f5b942?style=flat-square&labelColor=121821"/>
+</p>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```typescript
-const hossam = {
-  role:       "Full Stack Developer",
-  location:   "Alexandria, Egypt 🇪🇬",
-  company:    "Gymawy — Egypt's leading fitness platform",
-  focus:      ["Web Apps", "Real-time Systems", "Game Dev", "Arabic-first UX"],
-  currentlyBuilding: ["Gymawy Platform 🏋️", "AFLAK (أفلاك) — Multiplayer Game 🎮"],
-  openTo:     "Full Stack roles — Remote / Hybrid / On-site in Egypt & GCC 🌍",
-};
+### 👋 About
+
+I build and ship **production platforms for the Arab market** — end to end, from database design to the VPS they run on.
+
+- 🏗️ Co-founder of **7stacks**, a software studio in Alexandria
+- 🏋️ Run the stack behind **Gymmawy**, a fitness platform with **13,000+ users**
+- 💳 Integrate regional payments: **Paymob · Tabby · Tamara**
+- 🌍 Arabic-first, RTL, bilingual UX is the default, not an add-on
+- 🤖 AI-assisted workflow: I pick the architecture, orchestrate the tools, review and deploy
+
+</td>
+<td width="50%" valign="top" dir="rtl" align="right">
+
+### 👋 نبذة
+
+ببني وبشغّل **منصات حقيقية للسوق العربي** — من تصميم قاعدة البيانات لحد السيرفر اللي شغالة عليه.
+
+- 🏗️ شريك مؤسس في **7stacks** — استوديو برمجيات في إسكندرية
+- 🏋️ مسؤول عن منصة **Gymmawy** للياقة — أكتر من **13,000 مستخدم**
+- 💳 ربط بوابات الدفع العربية: **Paymob · Tabby · Tamara**
+- 🌍 الواجهة العربية والـ RTL أساس الشغل مش إضافة
+- 🤖 بشتغل بأدوات الذكاء الاصطناعي: بختار المعمارية، بوجّه الأدوات، براجع وبنشر
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Featured Work · أبرز المشاريع
+
+> Source code for client and production work is private. Each card links to a **public case study** — problem, architecture, stack and what I owned.
+> <br/>الكود الخاص بالعملاء مش عام، كل مشروع ليه صفحة **Case Study** بتشرح المشكلة والمعمارية والتقنيات ودوري فيه.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏋️ [Gymmawy Platform](https://github.com/Dex11x2/gymmawy-platform)
+Fitness commerce — programmes, products, subscriptions, loyalty & rewards. **13K+ users**, AR/EN, 3 Arab payment gateways, Dockerized on a VPS.
+<br/>`React` `Express 5` `Prisma` `PostgreSQL` `Docker` `Nginx`
+<br/>🔗 [gymmawy.fit](https://gymmawy.fit) · reused as a second brand: **POWER²**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧾 [Gymmawy ERP](https://github.com/Dex11x2/gymmawy-erp)
+Internal company system — accounting, payroll, HR, attendance, real-time chat and tasks, with multi-company data isolation and role-based access.
+<br/>`React 18` `TypeScript` `Node.js` `MongoDB` `Socket.io` `Zustand`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [Fitology Academy](https://github.com/Dex11x2/fitology-academy)
+Certification academy for fitness coaches & sports nutritionists — courses, generated certificates with QR verification, email automation.
+<br/>`Next.js 14` `TypeScript` `Supabase` `Fabric.js` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏃 [Dalyaway](https://github.com/Dex11x2/dalyaway-platform)
+Subscription coaching platform — client & admin portals, training plans, recipes, exercise video library, live in production.
+<br/>`PHP 8.3` `MySQL` `Hostinger`
+<br/>🔗 [dalyaway.fit](https://dalyaway.fit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏬 [Offline Arabic ERP](https://github.com/Dex11x2/arabic-offline-erp)
+100% offline ERP for warehouses & restaurants — inventory, POS, purchasing, double-entry accounting, expiry & weight tracking. Packaged as a Windows app.
+<br/>`JavaScript` `Event-sourced ledger` `Windows desktop`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌟 [Rise of Elements · نهضة العناصر](https://github.com/Dex11x2/rise-of-elements-game)
+Arabic knowledge-RPG — seven civilizations, trivia card battles, story campaigns. Full GDD, economy and damage formulas.
+<br/>`TypeScript` `Supabase` `PostgreSQL` `Game Design`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects · مشاريع تانية</b></summary>
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| 📚 **Ulearn** | Egyptian EdTech for teachers & students — live + recorded classes, sessions and payments | Next.js · Prisma · PostgreSQL |
+| 💪 **POWER²** | White-label rebrand of the Gymmawy engine for a second fitness brand | React · Express · Prisma |
+| 🧡 **Ravel Fit** | Installable PWA site for a nutrition & physio brand, offline-ready | HTML · Service Worker · PWA |
+| 🏢 **7stacks Studio** | Bilingual, motion-driven studio website with full RTL | Next.js 16 · React 19 · next-intl · Tailwind 4 |
+
+</details>
+
+---
+
+## 🛠️ Stack · التقنيات
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,postgres,supabase,mongodb,redis,docker,nginx,linux,php&perline=8" alt="stack"/>
+</p>
+
+<p align="center">
+  <b>Also:</b> Socket.io · Framer Motion · Zustand · next-intl · Electron · GTM / analytics · Paymob · Tabby · Tamara · Hostinger VPS
+</p>
+
+---
+
+## 🧭 How I work · طريقة شغلي
+
+```yaml
+own:        database → API → frontend → Docker → Nginx → VPS
+ship:       real users, real payments, real incidents — and the fixes
+languages:  Arabic + English, RTL-first
+ai:         Claude / Gemini / Codex as a team; I own architecture & review
 ```
 
 ---
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex11x2&bg_color=0b0f14&color=8a96a3&line=f5b942&point=ff6a3d&area=true&area_color=f5b942&hide_border=true" width="100%" alt="activity"/>
+</p>
 
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Game Development**
-
-![Phaser](https://img.shields.io/badge/Phaser.js-8B0000?style=for-the-badge&logo=javascript&logoColor=white)
-![Colyseus](https://img.shields.io/badge/Colyseus-Multiplayer-1A3A5C?style=for-the-badge)
-
-</div>
-
----
-
-## 🏗️ Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| 🌌 **[AFLAK أفلاك](https://github.com/Dex11x2/aflak)** | TypeScript · Phaser.js · Colyseus | Arabic multiplayer knowledge-adventure game — planets, factions, real-time battles |
-| 🏋️ **[Gymawy Accounting](https://github.com/Dex11x2/gymawy_acc-main)** | React · Express · MongoDB · Socket.io | Production gym management & accounting system — billing, reporting, real-time dashboard |
-| 🎓 **[Fitology Academy](https://github.com/Dex11x2/Fitology_Website)** | Next.js 14 · Supabase · Fabric.js | Coaching certification platform with QR badges, PDF diplomas & email automation |
-| 🛒 **[Banatclub.pro](https://github.com/Dex11x2/banatclub.pro)** | React · Prisma · Redis · Socket.io | Fitness commerce — programs, products, subscriptions, rewards, multilingual (AR/EN) |
-| 💳 **[Salex.dev](https://github.com/Dex11x2/salex.dev)** | React · Express · Stripe · Redis | E-commerce platform with Stripe payments, drag-and-drop management & i18n |
-| 🌐 **[200ok](https://github.com/Dex11x2/200ok)** | Next.js · next-intl · Radix UI | Multilingual modern web app with internationalization and animated UI |
-| 🏃 **Dalyaway** | Next.js · Full Stack | Fitness & nutrition coaching platform — admin/client portals, live at dalyaway.com |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dex11x2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex11x2&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dex11x2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7ossam11x2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dex11x2)
-
-<br/>
-
-**Open to Full Stack roles — Remote · Hybrid · On-site in Egypt & GCC** 🌍
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2980B9,1A3A5C,0D2137&height=100&section=footer" width="100%"/>
+<p align="center"><sub>Built in Alexandria 🇪🇬 · اتبنى في إسكندرية</sub></p>
