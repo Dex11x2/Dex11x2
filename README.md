@@ -139,8 +139,4 @@ ai:         Claude / Gemini / Codex as a team; I own architecture & review
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dex11x2&bg_color=0b0f14&color=8a96a3&line=f5b942&point=ff6a3d&area=true&area_color=f5b942&hide_border=true" width="100%" alt="activity"/>
-</p>
-
 <p align="center"><sub>Built in Alexandria 🇪🇬 · اتبنى في إسكندرية</sub></p>
